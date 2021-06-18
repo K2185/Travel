@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: '나눔고딕', sans-serif;
+    list-style-type: none;
+}
+
+section {
+    width: 1200px;
+    height: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    width: 1200px;
+    height: 150px;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 46px;
+    float: left;
+}
+.logo {
+    float: left;
+    margin-top: 40px;
+}
+.home {
+    width: 26px;
+    margin-top: 12px;
+}
+ul li {
+    display: inline-block;
+    outline: 1px solid #D6D5DC;
+    width: 98px;
+    height: 50px;
+    text-align: center;
+    float: right;
+    margin-top: 50px;
+}
+ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #444;
+    line-height: 50px;
+}
+
+#main-visual {
+    width: 1200px;
+    height: 500px;
+    background-image: url(../images/main.jpg);
+}
+p {
+    color: white;
+    font-size: 40px;
+    padding-top: 141px;
+    margin-left: 162px;
+    float: left;
+}
+h2 {
+    color: white;
+    font-size: 100px;
+    font-weight: normal;
+    padding-top: 106px;
+    margin-left: 10px;
+    float: left;
+}
+#contents {
+    width: 1200px;
+    height: 300px;
+}
+.con1, .con2, .con3 {
+    width: 388px;
+    height: 250px;
+    border: 10px solid #ACACB5;
+    border-radius: 10px;
+    float: left;
+    margin-left: 18px;
+    box-sizing: border-box;
+    margin-top: 25px;
+}
+.con1 {
+    margin-left: 0;
+    background-image: url(../images/royal_guards.jpg);
+}
+.con3 {
+    background-image: url(../images/city-sky-people-bridge-34629.jpg);
+}
+.icon1 {
+    margin-top: 50px;
+    margin-left: 36px;
+}
+.icon2 {
+    margin-left: 30px;
+}
+
+footer {
+    background-color: #ACACB5;
+    width: 1200px;
+    height: 150px;
+}
+footer p {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0;
+    margin-top: 67px;
+    margin-left: 483px;
+}
+
+.super {
+    float: right;
+    margin-top: 100px;
+}
